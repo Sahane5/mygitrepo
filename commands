@@ -1,0 +1,4 @@
+git add -A : staging area 
+git commit -m "jj': local repo
+git push: remote repo
+
